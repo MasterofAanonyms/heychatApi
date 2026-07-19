@@ -1,0 +1,23 @@
+Received mobile: [0787514827] length: 10
+DB mobiles: Array
+(
+    [0] => Array
+        (
+            [mobile] => 0772491324
+            [len] => 10
+        )
+
+    [1] => Array
+        (
+            [mobile] => 0772514827
+            [len] => 10
+        )
+
+    [2] => Array
+        (
+            [mobile] => 0787514827
+            [len] => 10
+        )
+
+)
+
